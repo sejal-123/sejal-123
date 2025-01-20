@@ -2,7 +2,7 @@
 
 ### 🌟 Building Seamless Digital Experiences  
 
-Welcome to my GitHub! I'm a **Frontend Developer** from **India**, passionate about crafting intuitive and engaging user interfaces that make an impact. I thrive on bringing designs to life and writing optimized, efficient code that powers seamless user experiences.  
+Welcome to my GitHub! I'm a **Frontend Developer** from **Pune**, passionate about crafting intuitive and engaging user interfaces that make an impact. I thrive on bringing designs to life and writing optimized, efficient code that powers seamless user experiences.  
 
 ---
 
@@ -19,24 +19,15 @@ I thrive in **agile environments**, collaborating effectively with cross-functio
 ## 💡 My Tech Toolbox  
 
 - **Frontend Technologies**: Angular, JavaScript, HTML5, CSS3, AG-Grid  
-- **Backend Skills**: Spring Boot, Java, SQL  
+- **Backend Skills**: Node js, Spring Boot, Java, SQL  
 - **Dev Tools**: Git, Docker, Figma, TeamCity, Jira  
 
 ---
 
 ## 🛠️ Highlight Projects  
 
-### 🔑 Django Password Generator  
-A Django-powered Python application designed to generate secure passwords effortlessly, ensuring your accounts stay protected.  
-
-### 🐾 Tindog Website  
-A responsive and charming platform connecting dog lovers, built with HTML and CSS for an engaging user experience.  
-
-### 🌐 Code for Change Online Education Portal  
-An online platform developed to democratize education by offering accessible learning resources for everyone.  
-
-### 📋 Student Management System  
-A Python-based solution for efficient management of student data, streamlining educational workflows.  
+### Dev Tinder  
+A responsive and charming platform connecting coding lovers, built with Angular and Node js for an engaging user experience.
 
 Feel free to explore more of my work in my [GitHub repositories](https://github.com/sejal-123?tab=repositories)!  
 
