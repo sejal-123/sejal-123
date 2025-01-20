@@ -44,7 +44,7 @@ Feel free to explore more of my work in my [GitHub repositories](https://github.
 
 ## 📫 Let's Connect!  
 
-- 📧 **Email**: sejaljain2043@gmail.com  
+- 📧 **Email**: sejalbudhani@outlook.com  
 - 💬 I’m always open to collaborating on exciting projects or chatting about the latest in tech.  
 
 ---
